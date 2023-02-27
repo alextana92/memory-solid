@@ -1,0 +1,11 @@
+.uncovered {
+    transform: rotateY(180deg);
+  }
+
+.card {
+    transition: 0.8s all ease;
+}
+
+.covered {
+    transform: rotateY(0deg);
+}

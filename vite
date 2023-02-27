@@ -1,0 +1,40 @@
+pm i
+
+added 90 packages, and audited 91 packages in 15s
+
+10 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+cd ..
+npx degit solidjs/templates/ts test-ts
+> cloned solidjs/templates#HEAD to test-ts
+cd test-ts
+npm i
+
+added 91 packages, and audited 92 packages in 5s
+
+10 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+code .
+npm run dev
+
+> vite-template-solid@0.0.0 dev
+> vite
+
+
+  VITE v4.1.4  ready in 610 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+
+
+
+
+
+
+
+
